@@ -38,6 +38,9 @@ Below are the solutions to LeetCode problems solved in November 2024, organized 
 - **November 4, 2024**
   - [November_4](November_4.cpp)
 
+- **November 5, 2024**
+  - [November_5](November_5.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
