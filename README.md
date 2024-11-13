@@ -61,6 +61,9 @@ Below are the solutions to LeetCode problems solved in November 2024, organized 
 
 - **November 12, 2024**
   - [November_12](November_12.cpp)
+ 
+ - **November 13, 2024**
+  - [November_13](November_13.cpp)
 
 ## Usage
 
