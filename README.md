@@ -71,6 +71,9 @@ Below are the solutions to LeetCode problems solved in November 2024, organized 
  - **November 15, 2024**
   - [November_15](November_15.cpp)
 
+ - **November 16, 2024**
+  - [November_16](November_16.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
