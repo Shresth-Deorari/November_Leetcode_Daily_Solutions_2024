@@ -62,22 +62,22 @@ Below are the solutions to LeetCode problems solved in November 2024, organized 
 - **November 12, 2024**
   - [November_12](November_12.cpp)
  
- - **November 13, 2024**
+- **November 13, 2024**
   - [November_13](November_13.cpp)
 
- - **November 14, 2024**
+- **November 14, 2024**
   - [November_14](November_14.cpp)
 
- - **November 15, 2024**
+- **November 15, 2024**
   - [November_15](November_15.cpp)
 
- - **November 16, 2024**
+- **November 16, 2024**
   - [November_16](November_16.cpp)
 
- - **November 17, 2024**
+- **November 17, 2024**
   - [November_17](November_17.cpp)
 
- - **November 18, 2024**
+- **November 18, 2024**
   - [November_18](November_18.cpp)
 
 ## Usage
