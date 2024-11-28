@@ -104,10 +104,12 @@ Below are the solutions to LeetCode problems solved in November 2024, organized 
 - **November 26, 2024**
   - [November_26](November_26.cpp)
 
-
 - **November 27, 2024**
   - [November_27](November_27.cpp)
-  - 
+
+- **November 28, 2024**
+  - [November_28](November_28.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
